@@ -3,17 +3,15 @@
 
 Console application for removing android bloatware implemented in C++.
 
-<img src="./androfree.png" alt="AndroFree.PNG" width=400px>
+<img src="/androfree.PNG" alt="AndroFree" width=400px>
 
 ## ***Important Points***
 
-* This program uses Android Debug Bridge. To setup ADB, head over to
-https://developer.android.com/studio/releases/platform-tools.
+* This program uses Android Debug Bridge. To setup ADB, head over to https://developer.android.com/studio/releases/platform-tools.
 
 * Add ADB to your path or move the program to platform-tools directory.
 
-* To enable USB Debugging on your phone, go to
-https://developer.android.com/studio/debug/dev-options.
+* To enable USB Debugging on your phone, haed over to https://developer.android.com/studio/debug/dev-options.
 
 * Use this tool cautiously, you may break some system features if you remove essential system packages.
 
