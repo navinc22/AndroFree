@@ -1,0 +1,2 @@
+Safe-to-remove package database empty.
+Please wait for next release.

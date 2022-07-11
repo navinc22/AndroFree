@@ -1,0 +1,10 @@
+package:com.google.android.apps.docs.editors.docs
+package:com.google.android.apps.docs.editors.sheets
+package:com.google.android.apps.docs.editors.slides
+package:com.google.android.inputmethod.latin
+package:com.google.android.instantapps.supervisor
+package:com.instagram.android
+package:com.linkedin.android
+package:com.sbi.lotusintouch
+package:com.whatsapp
+package:org.mozilla.firefox
