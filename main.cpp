@@ -1,16 +1,7 @@
 /*
  * AndroFree
  * by Navin Chandniya
- *
- * Possible future updates:
- * -> Abstract the functions using encapsulation.
- * -> Options to get and set display resolution and density.
- * -> Options to get and set per-app permissions.
- * -> Options for screenshot and screen capture.
- * -> Graphical User Interface using Qt6.
- * -> Seperate vendor packages w.r.t. android packages.
- * 
-*/
+ */
 
 #include <iostream>
 #include <fstream>
