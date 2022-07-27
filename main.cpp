@@ -170,7 +170,7 @@ string getVendor()
         break;
     case 8:
     case 9:
-        cout << "-> Removes touchpal keyboard if installed, make sure you have an alternate keyboad installed.";
+        cout << "-> Removes touchpal keyboard if installed, make sure you have an alternate keyboad installed.\n";
         vendor = "vivo.txt";
         break;
     }
@@ -199,7 +199,7 @@ void uninstallBloat()
     while (vendorFile)
     {
         getline(vendorFile, pkg);
-        cmd = "adb shell pm unsintall -k --user 0 " + pkg;
+        cmd = "adb shell pm uninstall -k --user 0 " + pkg;
         system(cmd.c_str());
     }
     vendorFile.close();
